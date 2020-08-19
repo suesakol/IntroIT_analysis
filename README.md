@@ -1,2 +1,4 @@
 # IntroIT_analysis
-R script and data for Introductory it construction
+Suethanapornkul, S.,, & Supasiraprapa, S. (In preparation). Introductory it construction in expert and novice academic writers
+
+This repo contains data and an R script.
